@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/Parmod2310/Kidney-Disease-Classification-Deep-Leaning-Project-
+https://github.com/Parmod2310/Kidney-Disease-Classification-Deep-Leaning-Project
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
